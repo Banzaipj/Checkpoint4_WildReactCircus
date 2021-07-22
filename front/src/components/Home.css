@@ -1,0 +1,12 @@
+.CircusLogo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    
+}
+
+.logo {
+    background: rgba(0,0,0,0);
+    margin-bottom: 30px;
+}

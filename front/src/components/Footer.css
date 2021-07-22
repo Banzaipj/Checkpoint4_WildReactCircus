@@ -1,0 +1,18 @@
+.footer-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    list-style-type: none;
+    margin-bottom: 2vw;
+}
+.footer-container .linkWild {
+    font-size: larger; 
+    height: auto;
+    width: 25vmin;
+}
+p {
+    margin:0;
+}
+
+

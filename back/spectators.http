@@ -1,0 +1,11 @@
+GET http://localhost:8000/spectators
+
+###
+POST http://localhost:8000/spectators
+Content-type: application/json
+
+{
+    "name": "Ripper",
+    "email": "circus@mail.com",
+    "password": "123456"
+}

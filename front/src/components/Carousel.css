@@ -1,0 +1,33 @@
+.image {
+    display: flex;
+    justify-content: center;
+}
+
+.ImgContainer{ 
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    max-width: 100vw;
+}
+
+.picture {
+    max-width: 80%;
+    align-items: center;
+}
+
+.carousel {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.para {
+    display: flex;
+    justify-content: center;
+    padding: 5%;
+}
+
+/*.thumb {
+    display: flex;
+    justify-content: center;
+}*/
